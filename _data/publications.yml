@@ -1,22 +1,33 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: Auto-Protection for Resonant Beam SWIPT in Portable Applications
+    authors: <strong>Shuaifan Xia</strong>, Qingwen Liu*, Mingqing Liu, Wen Fang*, Mingliang Xiong, Yunfeng Bai, Xiaozhe Li (*Corresponding authors)
+    conference_short: IOTJ
+    conference: IEEE Internet of Things Journal <strong>(IOTJ)</strong>.
+    pdf: https://ieeexplore.ieee.org/document/10192905
+    # code: https://github.com/MrGiovanni/ContinualLearning
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:nfe9oJrqoZYJ:scholar.google.com/&output=citation&scisdr=ClHfn_XOEOXoxvhVEkU:AFWwaeYAAAAAZVBTCkXYPR1eJnTcGPYqr_bRkOg&scisig=AFWwaeYAAAAAZVBTCt9T4dACG3vFjjxD_5FvSs4&scisf=4&ct=citation&cd=-1&hl=en
+    image: ./assets/img/auto_pro.png
+    notes: Early Access
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "NLOS transmission analysis for mobile SLIPT using resonant beam"
+    authors: Mingqing Liu, <strong>Shuaifan Xia</strong>, Mingliang Xiong, Mengyuan Xu, Qingwen Liu*, Hao Deng* (*Corresponding authors)
+    conference_short: TWC
+    conference: IEEE Transactions on Wireless Communications <strong>(TWC)</strong>.
+    pdf: https://arxiv.org/pdf/2207.13578
+    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:F1H7LanNlCsJ:scholar.google.com/&output=citation&scisdr=ClHfn_XOEOXoxvhU6x4:AFWwaeYAAAAAZVBS8x4vzBhibyfmGQ0haw-X23g&scisig=AFWwaeYAAAAAZVBS89XB7Ld69kD0L9wy8OUPxlI&scisf=4&ct=citation&cd=-1&hl=en
+    # notes: Oral Presentation
+    image: ./assets/img/NLOS.png
+    
+  - title: "Integrated communication and positioning with resonant beam"
+    authors: Mingqing Liu, <strong>Shuaifan Xia</strong>, Mingliang Xiong, Mengyuan Xu, Wen Fang, Qingwen Liu* (*Corresponding authors)
+    conference_short: TWC
+    conference: IEEE Transactions on Wireless Communications <strong>(TWC)</strong>.
+    pdf: https://ieeexplore.ieee.org/abstract/document/9776637/
+    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:A_VlZ6NQjcEJ:scholar.google.com/&output=citation&scisdr=ClHfn_XOEOXoxvhUxAM:AFWwaeYAAAAAZVBS3AOWLBx8JBYm7ZH_gEWexZ0&scisig=AFWwaeYAAAAAZVBS3NDVt_6m5hfFmZDxd9VtUbY&scisf=4&ct=citation&cd=-1&hl=en
+    # notes: Oral Presentation
+    image: ./assets/img/ICP.png
