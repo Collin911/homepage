@@ -3,7 +3,7 @@ main:
   - title: Auto-Protection for Resonant Beam SWIPT in Portable Applications
     authors: <strong>Shuaifan Xia</strong>, Qingwen Liu*, Mingqing Liu, Wen Fang*, Mingliang Xiong, Yunfeng Bai, Xiaozhe Li (*Corresponding authors)
     conference_short: IOTJ
-    conference: IEEE Internet of Things Journal <strong>(IOTJ)</strong>.
+    conference: IEEE Internet of Things Journal <strong>(IOTJ)</strong>, Jul, 2023.
     pdf: https://ieeexplore.ieee.org/document/10192905
     # code: https://github.com/MrGiovanni/ContinualLearning
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:nfe9oJrqoZYJ:scholar.google.com/&output=citation&scisdr=ClHfn_XOEOXoxvhVEkU:AFWwaeYAAAAAZVBTCkXYPR1eJnTcGPYqr_bRkOg&scisig=AFWwaeYAAAAAZVBTCt9T4dACG3vFjjxD_5FvSs4&scisf=4&ct=citation&cd=-1&hl=en
@@ -13,7 +13,7 @@ main:
   - title: "NLOS transmission analysis for mobile SLIPT using resonant beam"
     authors: Mingqing Liu, <strong>Shuaifan Xia</strong>, Mingliang Xiong, Mengyuan Xu, Qingwen Liu*, Hao Deng* (*Corresponding authors)
     conference_short: TWC
-    conference: IEEE Transactions on Wireless Communications <strong>(TWC)</strong>.
+    conference: IEEE Transactions on Wireless Communications <strong>(TWC)</strong>, May, 2023.
     pdf: https://arxiv.org/pdf/2207.13578
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
@@ -24,7 +24,7 @@ main:
   - title: "Integrated communication and positioning with resonant beam"
     authors: Mingqing Liu, <strong>Shuaifan Xia</strong>, Mingliang Xiong, Mengyuan Xu, Wen Fang, Qingwen Liu* (*Corresponding authors)
     conference_short: TWC
-    conference: IEEE Transactions on Wireless Communications <strong>(TWC)</strong>.
+    conference: IEEE Transactions on Wireless Communications <strong>(TWC)</strong>, Jul, 2022.
     pdf: https://ieeexplore.ieee.org/abstract/document/9776637/
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
