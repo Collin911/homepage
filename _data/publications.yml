@@ -5,7 +5,7 @@ main:
     conference_short: IOTJ
     conference: IEEE Internet of Things Journal <strong>(IOTJ)</strong>, Jul, 2023.
     pdf: https://ieeexplore.ieee.org/document/10192905
-    # code: https://github.com/MrGiovanni/ContinualLearning
+    code: https://github.com/Collin911/Portable-Auto-Protection-RBS
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:nfe9oJrqoZYJ:scholar.google.com/&output=citation&scisdr=ClHfn_XOEOXoxvhVEkU:AFWwaeYAAAAAZVBTCkXYPR1eJnTcGPYqr_bRkOg&scisig=AFWwaeYAAAAAZVBTCt9T4dACG3vFjjxD_5FvSs4&scisf=4&ct=citation&cd=-1&hl=en
     image: ./assets/img/auto_pro.png
     notes: Early Access
