@@ -2,9 +2,10 @@
 layout: homepage
 ---
 
-## About Me
-
-I am working towards M.Sc. in Computer Science at Tongji University, Shanghai, China. 
+## Educations
+- **[2022-2025]** M.Sc. student in computer science with **Prof. Qingwen Liu** at Tongji University, Shanghai, China.
+- **[2018-2022]** B.Sc. student in information security at Hangzhou Dianzi University, Zhejiang, China.
+- **[2015-2018]** Highschool student at Hangzhou Xuejun Highschool.
 
 ## Research Interests
 
