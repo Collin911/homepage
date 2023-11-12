@@ -8,7 +8,7 @@ I am working towards M.Sc. in Computer Science at Tongji University, Shanghai, C
 
 ## Research Interests
 
-- **Wireless Communication:** beamforming, communication system
+- **Wireless Communication:** Optical Wireless Communication (OWC), Beamforming
 - **SWIPT:** Simultaneous Wireless Information and Power Transfer
 
 {% include_relative _includes/publications.md %}
