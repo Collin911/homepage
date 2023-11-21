@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 ## Educations
-- **[2022-2025]** M.Sc. student in computer science with **Prof. Qingwen Liu** at Tongji University, Shanghai, China.
+- **[2022-2025]** M.Sc. student in computer science with [**Prof. Qingwen Liu**](https://lmqclare.github.io/Winglab/Publications.html) at Tongji University, Shanghai, China.
 - **[2018-2022]** B.Sc. student in information security at Hangzhou Dianzi University, Zhejiang, China.
 - **[2015-2018]** Highschool student at Hangzhou Xuejun Highschool.
 
