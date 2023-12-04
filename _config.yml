@@ -8,7 +8,7 @@ email: collinxia (at) tongji.edu.cn
 # The following information is used to improve the website traffic from search engines, e.g., Google.
 keywords: Collin, Shuaifan, 夏帅凡
 description: Shuaifan Collin Xia's personal homdpage using The Minimal Light jekyll theme.
-canonical: https://minimal-light-theme.yliu.me/
+canonical: https://collin911.github.io/homepage/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
@@ -16,6 +16,7 @@ google_scholar: https://scholar.google.com/citations?user=x4Y8uCAAAAAJ&hl=en
 cv_link: assets/files/curriculum_vitae.pdf
 github_link: https://github.com/Collin911
 ORCID: https://orcid.org/0000-0002-9769-4373
+ieee_link:https://ieeexplore.ieee.org/author/37089595748
 #linkedin: https://www.linkedin.com/
 #twitter: https://twitter.com/Azure_cx
 

@@ -77,6 +77,18 @@
           <i class="fab fa-github"></i>
         </a>
         {% endif %}
+		
+		{% if site.ORCID %}
+        <a style="margin: 0 5px 0 0" href="{{ site.github_link }}">
+          <i class="ai ai-orcid" style="font-size:1.3rem;"></i>
+        </a>
+        {% endif %}
+		
+		{% if site.ieee_link %}
+        <a style="margin: 0 5px 0 0" href="{{ site.github_link }}">
+          <i class="ai ai-ieee" style="font-size:1.3rem;"></i>
+        </a>
+        {% endif %}
 
         {% if site.linkedin %}
         <a style="margin: 0 5px 0 0" href="{{ site.linkedin }}">
