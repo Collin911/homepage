@@ -15,10 +15,10 @@ layout: homepage
 {% include_relative _includes/publications.md %}
 
 ## Awards & Scholarships
-- **[Nov. 2023]** **National Scholarship** for Master's Student.
+- **[Nov. 2023]** **China National Scholarship** for Master's Student.
 - **[Jun. 2022]** Outstanding Graduates *(Summa Cum Laude)* in Zhejiang Province.
 - **[Nov. 2021]** Zhejiang Provincial Scholarship for Undergraduate Student.
-- **[Nov. 2020]** **National Scholarship** for Undergraduate Student.
+- **[Nov. 2020]** **China National Scholarship** for Undergraduate Student.
 - **[Nov. 2019]** Zhejiang Provincial Scholarship for Undergraduate Student.
 
 
