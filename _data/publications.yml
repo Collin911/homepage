@@ -10,7 +10,7 @@ main:
     image: ./assets/img/auto_pro.png
     notes: Early Access
 
-  - title: "NLOS transmission analysis for mobile SLIPT using resonant beam"
+  - title: "NLOS Transmission Analysis for Mobile SLIPT Using Resonant Beam"
     authors: Mingqing Liu, <strong>Shuaifan Xia</strong>, Mingliang Xiong, Mengyuan Xu, Qingwen Liu*, Hao Deng* (*Corresponding authors)
     conference_short: TWC
     conference: IEEE Transactions on Wireless Communications <strong>(TWC)</strong>, May, 2023.
@@ -22,7 +22,7 @@ main:
     image: ./assets/img/NLOS.png
     notes: Early Access
     
-  - title: "Integrated communication and positioning with resonant beam"
+  - title: "Integrated Communication and Positioning with Resonant Beam"
     authors: Mingqing Liu, <strong>Shuaifan Xia</strong>, Mingliang Xiong, Mengyuan Xu, Wen Fang, Qingwen Liu* (*Corresponding authors)
     conference_short: TWC
     conference: IEEE Transactions on Wireless Communications <strong>(TWC)</strong>, Jul, 2022.
