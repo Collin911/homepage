@@ -3,9 +3,10 @@ layout: homepage
 ---
 
 ## Educations
-- **[2022-2025]** M.Sc. student in computer science with [**Prof. Qingwen Liu**](https://lmqclare.github.io/Winglab/Publications.html) at Tongji University, Shanghai, China.
-- **[2018-2022]** B.Sc. student in information security at Hangzhou Dianzi University, Zhejiang, China.
-- **[2015-2018]** Highschool student at Hangzhou Xuejun Highschool.
+- **[2024-2026]** (Estimate) Diplôme d'ingénieur student in telecommunications at [Télécom Paris](https://www.telecom-paris.fr/en/home), Paris, France.
+- **[2022-2025]** M.Sc. student in computer science with [**Prof. Qingwen Liu**](https://lmqclare.github.io/Winglab/Publications.html) at [Tongji University](https://www.tongji.edu.cn/), Shanghai, China.
+- **[2018-2022]** B.Sc. student in information security at [Hangzhou Dianzi University](https://www.hdu.edu.cn/main.htm), Zhejiang, China.
+- **[2015-2018]** Highschool student at [Hangzhou Xuejun Highschool](http://www.hzxjhs.com/home.htm).
 
 ## Research Interests
 
