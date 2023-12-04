@@ -6,7 +6,7 @@ main:
     conference: IEEE Internet of Things Journal <strong>(IOTJ)</strong>, Jul, 2023.
     pdf: https://ieeexplore.ieee.org/document/10192905
     code: https://github.com/Collin911/Portable-Auto-Protection-RBS
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:nfe9oJrqoZYJ:scholar.google.com/&output=citation&scisdr=ClHfn_XOEOXoxvhVEkU:AFWwaeYAAAAAZVBTCkXYPR1eJnTcGPYqr_bRkOg&scisig=AFWwaeYAAAAAZVBTCt9T4dACG3vFjjxD_5FvSs4&scisf=4&ct=citation&cd=-1&hl=en
+    bibtex: ./assets/files/cite_autoPro.html
     image: ./assets/img/auto_pro.png
     notes: Early Access
 
@@ -17,7 +17,7 @@ main:
     pdf: https://ieeexplore.ieee.org/document/10134572
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:F1H7LanNlCsJ:scholar.google.com/&output=citation&scisdr=ClHfn_XOEOXoxvhU6x4:AFWwaeYAAAAAZVBS8x4vzBhibyfmGQ0haw-X23g&scisig=AFWwaeYAAAAAZVBS89XB7Ld69kD0L9wy8OUPxlI&scisf=4&ct=citation&cd=-1&hl=en
+    bibtex: ./assets/files/cite_NLOS.html
     # notes: Oral Presentation
     image: ./assets/img/NLOS.png
     notes: Early Access
@@ -29,6 +29,6 @@ main:
     pdf: https://ieeexplore.ieee.org/abstract/document/9776637/
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:A_VlZ6NQjcEJ:scholar.google.com/&output=citation&scisdr=ClHfn_XOEOXoxvhUxAM:AFWwaeYAAAAAZVBS3AOWLBx8JBYm7ZH_gEWexZ0&scisig=AFWwaeYAAAAAZVBS3NDVt_6m5hfFmZDxd9VtUbY&scisf=4&ct=citation&cd=-1&hl=en
+    bibtex: ./assets/files/cite_ICP.html
     # notes: Oral Presentation
     image: ./assets/img/ICP.png
