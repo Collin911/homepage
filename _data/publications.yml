@@ -8,7 +8,7 @@ main:
     code: https://github.com/Collin911/Portable-Auto-Protection-RBS
     bibtex: ./assets/files/cite_autoPro.html
     image: ./assets/img/auto_pro.png
-    notes: Early Access
+    # notes: Early Access
 
   - title: "NLOS Transmission Analysis for Mobile SLIPT Using Resonant Beam"
     authors: Mingqing Liu, <strong>Shuaifan Xia</strong>, Mingliang Xiong, Mengyuan Xu, Qingwen Liu*, Hao Deng* (*Corresponding authors)
@@ -20,7 +20,7 @@ main:
     bibtex: ./assets/files/cite_NLOS.html
     # notes: Oral Presentation
     image: ./assets/img/NLOS.png
-    notes: Early Access
+    # notes: Early Access
     
   - title: "Integrated Communication and Positioning with Resonant Beam"
     authors: Mingqing Liu, <strong>Shuaifan Xia</strong>, Mingliang Xiong, Mengyuan Xu, Wen Fang, Qingwen Liu* (*Corresponding authors)
