@@ -37,7 +37,7 @@ main:
     authors: <strong>Shuaifan Xia</strong>, Qingwen Liu*, Qingwei Jiang, Wen Fang, Mingqing Liu (*Corresponding authors)
     conference_short: TWC
     conference: IEEE Transactions on Wireless Communications <strong>(TWC)</strong>, Under Submission.
-    # pdf: https://ieeexplore.ieee.org/document/10192905
+    pdf: ./404.html
     # code: https://github.com/Collin911/Portable-Auto-Protection-RBS
     # bibtex: ./assets/files/cite_autoPro.html
     image: ./assets/img/FDD_RBComm.png
