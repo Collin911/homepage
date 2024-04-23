@@ -16,6 +16,7 @@ layout: homepage
 {% include_relative _includes/publications.md %}
 
 ## Awards & Scholarships
+- **[Apr. 2024]** **France Excellence EIFFEL Scholarship** for Master's Student.
 - **[Nov. 2023]** **China National Scholarship** for Master's Student.
 - **[Jun. 2022]** Outstanding Graduates *(Summa Cum Laude)* in Zhejiang Province.
 - **[Nov. 2021]** Zhejiang Provincial Scholarship for Undergraduate Student.
