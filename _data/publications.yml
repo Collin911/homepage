@@ -9,6 +9,16 @@ main:
     bibtex: ./assets/files/cite_autoPro.html
     image: ./assets/img/auto_pro.png
     # notes: Early Access
+    
+  - title: "Millimeter-Wave Resonant Beam SWIPT"
+    authors: <strong>Shuaifan Xia</strong>, Qingwei Jiang, Wen Fang, Qingwen Liu*, Shengli Zhou, Mingqing Liu, Mingliang Xiong (*Corresponding authors)
+    conference_short: IOTJ
+    conference: IEEE Internet of Things Journal <strong>(IOTJ)</strong>, Aug, 2024.
+    # pdf: ./404.html
+    # code: https://github.com/Collin911/Portable-Auto-Protection-RBS
+    # bibtex: ./assets/files/cite_autoPro.html
+    image: ./assets/img/FDD_RBSWIPT.png
+    notes: Accepted for Publication
 
   - title: "NLOS Transmission Analysis for Mobile SLIPT Using Resonant Beam"
     authors: Mingqing Liu, <strong>Shuaifan Xia</strong>, Mingliang Xiong, Mengyuan Xu, Qingwen Liu*, Hao Deng* (*Corresponding authors)
