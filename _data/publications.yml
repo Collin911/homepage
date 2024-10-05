@@ -1,6 +1,6 @@
 main:
 
-  - title: Millimeter-Wave Resonant Beam SWIPT
+  - title: "Millimeter-Wave Resonant Beam SWIPT"
     authors: <strong>Shuaifan Xia</strong>, Qingwei Jiang, Wen Fang, Qingwen Liu*, Shengli Zhou, Mingqing Liu, Mingliang Xiong (*Corresponding authors)
     conference_short: IOTJ
     IEEE Internet of Things Journal <strong>(IOTJ)</strong>, Aug, 2024.
@@ -9,7 +9,7 @@ main:
     image: ./assets/img/FDD_RBSWIPT.png
     notes: Early Access
 
-  - title: Auto-Protection for Resonant Beam SWIPT in Portable Applications
+  - title: "Auto-Protection for Resonant Beam SWIPT in Portable Applications"
     authors: <strong>Shuaifan Xia</strong>, Qingwen Liu*, Mingqing Liu, Wen Fang*, Mingliang Xiong, Yunfeng Bai, Xiaozhe Li (*Corresponding authors)
     conference_short: IOTJ
     conference: IEEE Internet of Things Journal <strong>(IOTJ)</strong>, Jul, 2023.
