@@ -1,13 +1,13 @@
 main:
 
-    - title: Auto-Protection for Resonant Beam SWIPT in Portable Applications
-    authors: <strong>Shuaifan Xia</strong>, Qingwen Liu*, Mingqing Liu, Wen Fang*, Mingliang Xiong, Yunfeng Bai, Xiaozhe Li (*Corresponding authors)
+  - title: Millimeter-Wave Resonant Beam SWIPT
+    authors: <strong>Shuaifan Xia</strong>, Qingwei Jiang, Wen Fang, Qingwen Liu*, Shengli Zhou, Mingqing Liu, Mingliang Xiong (*Corresponding authors)
     conference_short: IOTJ
-    conference: IEEE Internet of Things Journal <strong>(IOTJ)</strong>, Jul, 2023.
-    pdf: https://ieeexplore.ieee.org/document/10192905
-    code: https://github.com/Collin911/Portable-Auto-Protection-RBS
-    bibtex: ./assets/files/cite_autoPro.html
-    image: ./assets/img/auto_pro.png
+    IEEE Internet of Things Journal <strong>(IOTJ)</strong>, Aug, 2024.
+    pdf: https://ieeexplore.ieee.org/document/10660556/
+    bibtex: ./assets/files/cite_mmSWIPT.html
+    image: ./assets/img/FDD_RBSWIPT.png
+    notes: Early Access
 
   - title: Auto-Protection for Resonant Beam SWIPT in Portable Applications
     authors: <strong>Shuaifan Xia</strong>, Qingwen Liu*, Mingqing Liu, Wen Fang*, Mingliang Xiong, Yunfeng Bai, Xiaozhe Li (*Corresponding authors)
