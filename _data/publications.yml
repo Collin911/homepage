@@ -1,5 +1,24 @@
 main:
 
+  - title: "Frequency Division Duplexing Resonant Beam Communication"
+    authors: <strong>Shuaifan Xia</strong>, Qingwen Liu, Qingwei Jiang, Wen Fang*, Mingqing Liu (*Corresponding authors)
+    conference_short: TWC
+    conference: IEEE Transactions on Wireless Communications <strong>(TWC)</strong>.
+    # pdf: ./404.html
+    # code: https://github.com/Collin911/Portable-Auto-Protection-RBS
+    # bibtex: ./assets/files/cite_autoPro.html
+    image: ./assets/img/FDD_RBComm.png
+    notes: Accepted for Publication, Oct, 2025.
+
+  - title: "Mobile Self-Protection Resonant Beam SWIPT with Adaptive Phase Control"
+    authors: Xinhe Wang , <strong>Shuaifan Xia</strong> , Wen Fang* , Mingqing Liu, Mingliang Xiong, and Qingwen Liu (*Corresponding authors)
+    conference_short: IOTJ
+    conference: IEEE Internet of Things Journal <strong>(IOTJ)</strong>, Oct, 2025.
+    pdf: https://ieeexplore.ieee.org/document/11112711
+    # code: https://github.com/Collin911/Portable-Auto-Protection-RBS
+    bibtex: ./assets/files/cite_MautoPro.html
+    image: ./assets/img/m_auto_pro.png
+
   - title: "Millimeter-Wave Resonant Beam SWIPT"
     authors: <strong>Shuaifan Xia</strong>, Qingwei Jiang, Wen Fang, Qingwen Liu*, Shengli Zhou, Mingqing Liu, Mingliang Xiong (*Corresponding authors)
     conference_short: IOTJ
@@ -44,12 +63,3 @@ main:
     # notes: Oral Presentation
     image: ./assets/img/ICP.png
     
-  - title: "Frequency Division Duplexing Resonant Beam Communication"
-    authors: <strong>Shuaifan Xia</strong>, Qingwen Liu*, Qingwei Jiang, Wen Fang, Mingqing Liu (*Corresponding authors)
-    conference_short: TWC
-    conference: IEEE Transactions on Wireless Communications <strong>(TWC)</strong>, Under Submission.
-    # pdf: ./404.html
-    # code: https://github.com/Collin911/Portable-Auto-Protection-RBS
-    # bibtex: ./assets/files/cite_autoPro.html
-    image: ./assets/img/FDD_RBComm.png
-    notes: Under Major Revision
