@@ -5,17 +5,17 @@ main:
     conference_short: TWC
     conference: IEEE Transactions on Wireless Communications <strong>(TWC)</strong>.
     pdf: https://ieeexplore.ieee.org/document/11220199
-    # code: https://github.com/Collin911/Portable-Auto-Protection-RBS
-    bibtex: ./assets/files/cite_autoPro.html
+    code: https://github.com/Collin911/RF-RBComm
+    bibtex: ./assets/files/cite_FDDComm.html
     image: ./assets/img/FDD_RBComm.png
-    notes: Early Access
+    # notes: Early Access
 
   - title: "Millimeter-Wave Resonant Beam SWIPT"
     authors: <strong>Shuaifan Xia</strong>, Qingwei Jiang, Wen Fang, Qingwen Liu*, Shengli Zhou, Mingqing Liu, Mingliang Xiong (*Corresponding authors)
     conference_short: IOTJ
     conference: IEEE Internet of Things Journal <strong>(IOTJ)</strong>, Aug, 2024.
     pdf: https://ieeexplore.ieee.org/document/10660556/
-    # code: https://github.com/Collin911/Portable-Auto-Protection-RBS
+    code: https://github.com/Collin911/RF-RBSWIPT
     bibtex: ./assets/files/cite_mmSWIPT.html
     image: ./assets/img/FDD_RBSWIPT.png
     # notes: Early Access
