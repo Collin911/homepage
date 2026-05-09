@@ -3,7 +3,7 @@ main:
   - title: "Frequency Division Duplexing Resonant Beam Communication"
     authors: <strong>Shuaifan Xia</strong>, Qingwen Liu, Qingwei Jiang, Wen Fang*, Mingqing Liu (*Corresponding authors)
     conference_short: TWC
-    conference: IEEE Transactions on Wireless Communications <strong>(TWC)</strong>.
+    conference: IEEE Transactions on Wireless Communications <strong>(TWC)</strong>, Oct, 2025.
     pdf: https://ieeexplore.ieee.org/document/11220199
     code: https://github.com/Collin911/RF-RBComm
     bibtex: ./assets/files/cite_FDDComm.html
