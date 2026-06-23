@@ -3,6 +3,7 @@ layout: homepage
 ---
 
 ## Educations
+- **[2026-2029]** PhD candidate in wireless communication at [Université Paris-Saclay](https://www.universite-paris-saclay.fr/), Gif-sur-Yvette, France.
 - **[2024-2026]** Diplôme d'ingénieur student in telecommunications at [Télécom Paris](https://www.telecom-paris.fr/en/home), Palaiseau, France.
 - **[2022-2025]** M.Eng. in computer science with [**Prof. Qingwen Liu**](https://lmqclare.github.io/Winglab/Publications.html) at [Tongji University](https://www.tongji.edu.cn/), Shanghai, China.
 - **[2018-2022]** B.Eng. in information security at [Hangzhou Dianzi University](https://www.hdu.edu.cn/main.htm), Zhejiang, China.
